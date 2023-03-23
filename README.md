@@ -16,7 +16,7 @@ This package is compatible with the 5.8 version of Laravel.
 You can install the package via composer:
 
 ```bash
-composer require hashcode7/laravel-amplitude-analytics
+composer require aery-software/laravel-amplitude-analytics
 
 ```
 
